@@ -1,0 +1,37 @@
+---
+title: My first post!
+description: This is a post to test out the functionality of the website.
+author: DO Quang Minh
+date: 2026-03-19 23:30:00 +0200
+categories: [Testing]
+tags: [first post, test]
+---
+
+# I. What is this website about?
+
+Well... This website is going to be compiled of everything in my journey.
+
+# II. What are the objectives?
+
+## 1. The first objective is...
+The first objective
+
+## 2. The second objective is...
+The second objective
+
+# III. Lists of things
+1. Firstly
+2. Secondly
+3. Thirdly
+
+- First object
+    - Second object
+        - Third object
+
+# IV. The important equation
+
+$$
+\begin{equation*}
+  \left(1 + \dfrac{2}{\gamma + 1}\right)P_f^2 + \dfrac{2kV_i}{\left(\gamma - 1\right)\Sigma^2} P_f - \dfrac{2knRT_i}{\left(\gamma - 1\right)\Sigma^2} = 0
+\end{equation*}
+$$
