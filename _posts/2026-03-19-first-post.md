@@ -5,6 +5,7 @@ author: domcvn
 date: 2026-03-19 23:30:00 +0200
 categories: [Testing]
 tags: [first post, test]
+math: true
 ---
 
 # I. What is this website about?
