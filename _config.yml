@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Do Quang Minh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Engineering student, violinist, and photographer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,8 +28,8 @@ url: "https://domcvn.github.io"
 github:
   username: domcvn # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
