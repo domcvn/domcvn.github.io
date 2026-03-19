@@ -1,7 +1,7 @@
 ---
 title: My first post!
 description: This is a post to test out the functionality of the website.
-author: DO Quang Minh
+author: domcvn
 date: 2026-03-19 23:30:00 +0200
 categories: [Testing]
 tags: [first post, test]
